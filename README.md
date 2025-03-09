@@ -1,11 +1,17 @@
-A Bit About Me:
-- My name is Dean and im from Co. Galway, Ireland.
-  
-- Currently I Am Trying To Build Up A Work Portfolio To Help Me Land My First Coding Job.
-  - (Focusing On Things I Would Actually Use And Not Just Make A Note Making Application For The Sake Of It)
-    
-- I Love Constantly Having Something New To Look At To Try To Learn (Currently Teaching Myself How To DJ As My Two Biggest Passions In Life Was Always Technology And Music)
-    - Because Of That I Will Likely Have Some Music Related Project On Here Sometime Soon.
+### Hi there 👋, Dean Rigney - Ackarax
+#### Software/Games Developer
+My name is Dean Rigney and I am from Co, Galway, Ireland and I studied Software and Games Development at Technological University of the Shannon: Midlands Midwest (formally known as Athlone Institute of Technology or AIT).
+
+This repository is where I am going to post/showcase any personal projects I take up over the coming years. I love to learn/try out new things, so that will explain why the projects may be seem random, but know that they are or were useful to me at some point. There is method to the madness haha.
+
+Currently teaching myself how to DJ as I have always had a passion for music, along with technology. (There will likely be some coding project related to music soon).   
+
+Skills: Java, C, C++, C#, Unity
+
+- 🔭 I’m currently working on creating more projects to flesh out this repository 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Its-Ackarax)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rigneydean/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dat.dude.dean/)  
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Its-Ackarax)](https://github.com/anuraghazra/github-readme-stats)
 
