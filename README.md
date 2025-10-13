@@ -1,23 +1,36 @@
 ## Ackarax - Dean Rigney
 ### 🙋 Software/Games Developer
-### Work Portfolio Website at 🌐https://deanrigneydev.com/
-#### 📃 About Me/This Repo:
+<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/946ea400-d421-4417-824d-05fed7d1838e" />
+&nbsp Work Portfolio Website - https://deanrigneydev.com/
+<br/>
+<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/d301e773-f945-43a4-837f-fe9a9b25dbd3" />
+&nbsp LinkedIn Profile - www.linkedin.com/in/deanrigneydev
+<br/>
+<br/>
+
+## 📃 About Me/This Repo:
 My name is Dean Rigney and I am from Co, Galway, Ireland and I studied Software and Games Development at Technological University of the Shannon: Midlands Midwest (formally known as Athlone Institute of Technology or AIT).
 
 On here I will have any personal projects I take on over the coming years for your viewing pleasure. I love to learn/try out new things, so that will explain why the projects may be seem random, but know that they are or were useful to me at some point. There is method to the madness haha.
 
-Also teaching myself how to DJ as I have always had love for both music and technology. (There will likely be some coding project related to music in the future).   
+Also teaching myself various other things like how to DJ and edit videos. (These might influence my future projects).   
+<br/>
 
 ## 🧑‍💻 Current Project...
-Currently I am completing LeetCode questions and preparing for interviews.
+Currently I am preparing for interview questions and completing LeetCode exercises.
+<br/>
+<br/>
 
 ## 🧑‍💻 Future Projects...
 1) Learn Javascript to use React Native to build the front end for the 'Log Quotes from Books' app that I want to make.
+<br/>
 
-### 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+## 💻 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+<br/>
+<br/>
 
-#### :page_facing_up: Media Links / Contact Methods
+## :page_facing_up: Media Links / Contact Methods
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rigneydean)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:DeanRigneyDev@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dat.dude.dean)  
