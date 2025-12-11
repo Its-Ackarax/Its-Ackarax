@@ -9,7 +9,9 @@
 <br/>
 
 ## 📃 About Me/This Repo:
-My name is Dean Rigney and I am from Co, Galway, Ireland and I studied Software and Games Development at Technological University of the Shannon: Midlands Midwest (formally known as Athlone Institute of Technology or AIT).
+My name is Dean Rigney and I am from Co, Galway, Ireland.
+I studied Software and Games Development at Technological University of the Shannon: Midlands Midwest (formally known as Athlone Institute of Technology or AIT).
+I have recently joined the local rugby team, which means my evening now consist of rugby, gym and coding.
 
 On here I will have any personal projects I take on over the coming years for your viewing pleasure. I love to learn/try out new things, so that will explain why the projects may be seem random, but know that they are or were useful to me at some point. There is method to the madness haha.
 
@@ -17,12 +19,12 @@ Also teaching myself various other things like how to DJ and edit videos. (These
 <br/>
 
 ## 🧑‍💻 Current Project...
-Currently I am preparing for interview questions and completing LeetCode exercises.
+Currently I am learning Javascript and React in order to facilitate me in building mobile and web applications.
 <br/>
 <br/>
 
 ## 🧑‍💻 Future Projects...
-1) Learn Javascript to use React Native to build the front end for the 'Log Quotes from Books' app that I want to make.
+Begin building multiple applications in public, documenting my process on twitter, and also posting any other insights on LinkedIn.
 <br/>
 
 ## 💻 Tech Stack
