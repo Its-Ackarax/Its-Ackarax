@@ -9,15 +9,20 @@
 <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/c84bf8f2-ec94-41a2-9fb2-e52d1dcf980a" />
 &nbsp X Account - https://x.com/DeanRigneyDev
 
-## 📃 About Me/This Repo:
-My name is Dean Rigney and I am from Co, Galway, Ireland.
-I studied Software and Games Development at Technological University of the Shannon: Midlands Midwest (formally known as Athlone Institute of Technology or AIT).
+## 📃 About Me:
+I am Dean, a software developer from Co, Galway, Ireland.
 
-I have recently joined the local rugby team, which means my evenings now consist of rugby, gym and coding.
+My goal is to create useful/fun applications that people use in their daily lives.
 
-On here I will have any personal projects I take on over the coming years for your viewing pleasure. I love to learn/try out new things, so that will explain why the projects may be seem random, but know that they are or were useful to me at some point. There is method to the madness haha.
+I aim to build in public and document my journey/life through various forms of content. (Youtube, X, LinkedIn)
 
-Also teaching myself various other things like how to DJ and edit videos. (These might influence my future projects).   
+<br/>
+
+**Fun Facts:**
+
+1. I have recently joined the local rugby team, which means my evenings now consist of rugby, gym and coding.
+
+2. Also learning how to DJ and edit videos. (These might influence my future projects).   
 <br/>
 
 ## 🧑‍💻 Current Project...
