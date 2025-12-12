@@ -6,12 +6,14 @@
 <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/d301e773-f945-43a4-837f-fe9a9b25dbd3" />
 &nbsp LinkedIn Profile - www.linkedin.com/in/deanrigneydev
 <br/>
-<br/>
+<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/c84bf8f2-ec94-41a2-9fb2-e52d1dcf980a" />
+&nbsp X Account - https://x.com/DeanRigneyDev
 
 ## 📃 About Me/This Repo:
 My name is Dean Rigney and I am from Co, Galway, Ireland.
 I studied Software and Games Development at Technological University of the Shannon: Midlands Midwest (formally known as Athlone Institute of Technology or AIT).
-I have recently joined the local rugby team, which means my evening now consist of rugby, gym and coding.
+
+I have recently joined the local rugby team, which means my evenings now consist of rugby, gym and coding.
 
 On here I will have any personal projects I take on over the coming years for your viewing pleasure. I love to learn/try out new things, so that will explain why the projects may be seem random, but know that they are or were useful to me at some point. There is method to the madness haha.
 
@@ -33,10 +35,9 @@ Begin building multiple applications in public, documenting my process on twitte
 <br/>
 
 ## :page_facing_up: Media Links / Contact Methods
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rigneydean)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:DeanRigneyDev@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dat.dude.dean)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rigneydean)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/DeanRigneyDev)
 
 <!---
 Its-Ackarax/Its-Ackarax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
